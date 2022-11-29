@@ -14,5 +14,5 @@ with Client(':memory:', api_id=API_KEY, api_hash=API_HASH) as app:
     a = app.send_message("me", "`{}`".format(app.export_session_string()))
     app.send_message(
         chat_id=a.chat.id,
-        text="**Here Is Your Pyrogram String Session, Don't Share Any Where -! \n\n © @kaalxsupport**",
+        text="**Here Is Your Pyrogram String Session, Don't Share Any Where -! \n\n © @zain_THE_end**",
         reply_to_message_id=a.message_id)

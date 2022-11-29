@@ -11,7 +11,7 @@ async def main():
     print(
         """
     ------------------------
-   | Meow userbot +  Music Actived! |
+   | Zain userbot +  Music Actived! |
     ------------------------
 """
     )

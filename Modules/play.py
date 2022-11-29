@@ -116,7 +116,7 @@ async def play(client, m: Message):
                 await m.reply_photo(
                     photo="https://telegra.ph/file/18d25616d9883400af112.png",
                     caption=f"""
-**▶ Now Meow userbot playing {pos}
+**▶ Now Zain userbot playing {pos}
 🏷 Song name: [{songname}]
 💡 Status: Playing
 🎧 Request by: {m.from_user.mention}**
@@ -136,7 +136,7 @@ async def play(client, m: Message):
                 await m.reply_photo(
                     photo="https://telegra.ph/file/18d25616d9883400af112.png",
                     caption=f"""
-**▶ Now Meow userbot playing
+**▶ Now Zain userbot playing
 🏷 Song name: [{songname}]
 💡 Status: Playing
 🎧 Request by: {m.from_user.mention}**
@@ -167,7 +167,7 @@ async def play(client, m: Message):
                         await m.reply_photo(
                             photo=f"{IMAGE_THUMBNAIL}",
                             caption=f"""
-**▶ Now Meow userbot playing {pos}
+**▶ Now Zain userbot playing {pos}
 🏷 Song name: [{songname}]
 💡 Status: Playing
 🎧 Request by: {m.from_user.mention}**
@@ -188,7 +188,7 @@ async def play(client, m: Message):
                             await m.reply_photo(
                                 photo=f"{IMAGE_THUMBNAIL}",
                                 caption=f"""
-**▶ Now Meow userbot playing
+**▶ Now Zain userbot playing
 🏷️ Song name: [{songname}]
 💡 Status: Playing
 🎧 Request by: {m.from_user.mention}**
@@ -235,7 +235,7 @@ async def videoplay(client, m: Message):
                 await m.reply_photo(
                     photo="https://telegra.ph/file/18d25616d9883400af112.png",
                     caption=f"""
-**▶ Now Meow userbot playing video {pos}
+**▶ Now Zain userbot playing video {pos}
 🏷️ Song name: [{songname}]
 💡 Status: Playing
 🎧 Request by: {m.from_user.mention}**
@@ -259,7 +259,7 @@ async def videoplay(client, m: Message):
                 await m.reply_photo(
                     photo="https://telegra.ph/file/18d25616d9883400af112.png",
                     caption=f"""
-**▶ Now Meow userbot playing Video
+**▶ Now Zain userbot playing Video
 🏷️ Song name: [{songname}]
 💡 Status: Playing
 🎧 Request by: {m.from_user.mention}**
@@ -296,7 +296,7 @@ async def videoplay(client, m: Message):
                         await m.reply_photo(
                             photo=f"{IMAGE_THUMBNAIL}",
                             caption=f"""
-**▶ Now Meow userbot Playing video {pos}
+**▶ Now Zain userbot Playing video {pos}
 🏷️ Song name : [{songname}]
 💡 Status: Playing
 🎧 Request by: {m.from_user.mention}**
@@ -315,7 +315,7 @@ async def videoplay(client, m: Message):
                             await m.reply_photo(
                                 photo=f"{IMAGE_THUMBNAIL}",
                                 caption=f"""
-**▶ Now Meow userbot playing video
+**▶ Now Zain userbot playing video
 🏷️ Song name: [{songname}]
 💡 Status: Playing
 🎧 Request by: {m.from_user.mention}**
@@ -364,7 +364,7 @@ async def playfrom(client, m: Message):
                     await m.reply_photo(
                         photo="https://telegra.ph/file/18d25616d9883400af112.png",
                         caption=f"""
-**▶ Now Meow userbot playing {chat}
+**▶ Now Zain userbot playing {chat}
 🏷️ Song name: [{songname}]
 💡 Status: Playing
 🎧 Request by: {m.from_user.mention}**

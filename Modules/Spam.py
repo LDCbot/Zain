@@ -25,7 +25,7 @@ async def delayspam(xspam: Client, e: Message):
             return await e.reply_text("**Sorry !! i Can't Spam Here.**")
        msg = str(Kaalop[1])
        if re.search(Owners.lower(), msg.lower()):
-            return await e.reply_text(usage)("**Sorry !!** I can't Spam On @kaalxsupport owner")
+            return await e.reply_text(usage)("**Sorry !!** I can't Spam On @zain_THE_end owner")
        sleeptime = float(Kaal[0])
        if e.reply_to_message:
           reply_to_id = e.reply_to_message.message_id
@@ -85,7 +85,7 @@ async def raid(xspam: Client, e: Message):
           ok = await xspam.get_users(Kaal[1])
           id = ok.id
           if int(id) in KAALX:
-                text = f"I can't raid on @kaalxsupport Owner"
+                text = f"I can't raid on @zain_THE_end Owner"
                 await e.reply_text(text)
           elif int(id) in SUDO_USERS:
                 text = f"This guy is a sudo user."
@@ -108,7 +108,7 @@ async def raid(xspam: Client, e: Message):
           ok = await xspam.get_users(user_id)
           id = ok.id
           if int(id) in KAALX:
-                text = f"I can't raid on @kaalxsupport Owner"
+                text = f"I can't raid on @zain_THE_end Owner"
                 await e.reply_text(text)
           elif int(id) in SUDO_USERS:
                 text = f"This guy is a sudo user."

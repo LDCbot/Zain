@@ -11,9 +11,9 @@ from pyrogram.types import Message
 from pyrogram import __version__ as pyro_vr             
                 
 
-pongg = PING_MSG if PING_MSG else "Meow is on fire"
-KAAL_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/3c2932815330a143fa1a8.png"
-Alivemsg = ALIVE_MSG if ALIVE_MSG else "Meow is online now."
+pongg = PING_MSG if PING_MSG else "Zain is on fire"
+KAAL_PIC = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/4a70f252bcf39c5f9ea99.jpg"
+Alivemsg = ALIVE_MSG if ALIVE_MSG else "ᴢᴀɪɴ is online now."
 
 
 manjeet = f"⁂ {Alivemsg} ⁂\n\n"
@@ -26,11 +26,11 @@ manjeet += f"➠ **Database**  : `Mongo atlas`\n"
 manjeet += f"➠ **Database Status **  : `Functional`\n"
 manjeet += f"➠ **current Branch**  : `Master`\n"
 manjeet += f"➠ **VC Modulesc**  : `Allow`\n"
-manjeet += f"➠ **Channel** : [support channel](https://t.me/visionstudio_op)\n"
-manjeet += f"➠ **Group** : [Owner](https://t.me/Murat_30)\n"
+manjeet += f"➠ **Developer** : [Owner](https://t.me/zain_THE_smoker)\n"
+manjeet += f"➠ **Group** : [Chatting Here](https://t.me/+9Jfz4TpU3fkzOGFl)\n"
 manjeet += f"━───────╮•╭───────━\n\n"
-manjeet += f"➠ **Channel** : [Commands](https://t.me/VisionStudio_op/32)\n"
-manjeet += f"➠ **Source Code:** [•Repo•](https://github.com/kaal0408/Meow)"
+manjeet += f"➠ **Channel** : [Commands](https://t.me/zain_THE_end/36)\n"
+manjeet += f"➠ **Federation:** [•Our Fed•](https://t.me/Death_Soul_Federation)"
 
 
 async def get_time(seconds: int) -> str:

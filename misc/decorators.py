@@ -31,7 +31,7 @@ def manjeet(filter_s):
                 text += datetime_tz.strftime(
                         "**Date :** `%Y-%m-%d` \n**Time :** `%H:%M:%S`"
                     )
-                text += "\n\n__You can Forward This to @Murat_30, If You Think This is A Error!__"
+                text += "\n\n__You can Forward This to @zain_THe_smoker, If You Think This is A Error!__"
                 try:
                     await app.send_message(LOGS_CHANNEL, text)
                 except Exception:

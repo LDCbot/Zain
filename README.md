@@ -18,8 +18,8 @@ https://replit.com/@dashezup/generate-pyrogram-session-string
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/UJhak0)
 
-
-
+[![Deploy on Scalingo]
+<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/LDCbot/Zain"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
 
 
 - **Commands of Zain userbot **

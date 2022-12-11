@@ -9,7 +9,7 @@
             "description": "fill with the pyrogram session string from https://replit.com/@Itz-zaid/pyrogram",
             "required": true
         },
-        "MONGO_URL": {
+        "API_ID": {
             "description": "an mongodb.com Database",
             "required": true
         },
@@ -17,11 +17,11 @@
             "description": "Sudo list (user id)",
             "required": true
         },
-        "OWNER_ID": {
+        "API_HASH": {
             "description": "fill your I'd (can access all things)",
             "required": true
         },
-        "BOT_TOKEN": {
+        "ALIVE_PIC": {
             "description": "fill with your bot token get from @BotFather on telegram",
             "required": true,
             "value": ""

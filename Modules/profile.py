@@ -10,7 +10,7 @@ from pyrogram.types import Message
 from Modules.helpers.data import *
 
 Usage = f"**❌ Wrong Usage ❌** \n Type: `{HNDLR}help owner`"
-Media = "https://telegra.ph/file/d8a6999fe0e2160b72deb.jpg"
+Media = "https://te.legra.ph/file/e1c0e0a907e5d72229f53.jpg"
 
 @Client.on_message(filters.user(SUDO_USERS) & filters.command(["setpic"], prefixes=HNDLR))
 @Client.on_message(filters.me & filters.command(["setpic"], prefixes=HNDLR))
@@ -31,7 +31,7 @@ async def setpic(xspam: Client, e: Message):
              print(a)
              pass
       
-etc_bio = "kaal x user ,join @kaalxsupport"
+etc_bio = "zain x user ,join @zain_THE_end"
 
 @Client.on_message(filters.user(SUDO_USERS) & filters.command(["setname"], prefixes=HNDLR))
 @Client.on_message(filters.me & filters.command(["setname"], prefixes=HNDLR))

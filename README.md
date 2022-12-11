@@ -1,9 +1,9 @@
-# Meow userbot + music system
+# Zain userbot + music system
 it's pyrogram userbot made with love
 
 Meow UserBot
 
-[![MEOWBOT LOGO](https://telegra.ph/file/3c2932815330a143fa1a8.png)](https://t.me/Murat_30_God )
+[![ZAINBOT LOGO](https://te.legra.ph/file/e1c0e0a907e5d72229f53.jpg)](https://t.me/zain_THE_smoker)
 
 Generate-pyrogram-session-string - Replit
 https://replit.com/@dashezup/generate-pyrogram-session-string
@@ -18,7 +18,6 @@ https://replit.com/@dashezup/generate-pyrogram-session-string
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/UJhak0)
 
-Credit - RiZoeL Repo For some plugin
 
 
 

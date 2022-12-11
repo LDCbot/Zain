@@ -1,7 +1,7 @@
 # Zain userbot + music system
 it's pyrogram userbot made with love
 
-Meow UserBot
+Zain UserBot
 
 [![ZAINBOT LOGO](https://te.legra.ph/file/e1c0e0a907e5d72229f53.jpg)](https://t.me/zain_THE_smoker)
 

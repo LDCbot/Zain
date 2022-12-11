@@ -1,2 +1,2 @@
 web: python -m http.server $PORT
-worker: python3 -m
+worker: python3 -m main

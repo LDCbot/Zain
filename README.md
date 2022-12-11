@@ -22,7 +22,7 @@ https://replit.com/@dashezup/generate-pyrogram-session-string
 
 
 
-- **Commands of Meow userbot **
+- **Commands of Zain userbot **
 
 - **skip - To skip the song in vc **
 

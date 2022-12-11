@@ -30,7 +30,7 @@ manjeet += f"➠ **Developer** : [Owner](https://t.me/zain_THE_smoker)\n"
 manjeet += f"➠ **Group** : [Chatting Here](https://t.me/+9Jfz4TpU3fkzOGFl)\n"
 manjeet += f"━───────╮•╭───────━\n\n"
 manjeet += f"➠ **Channel** : [Commands](https://t.me/zain_THE_end/36)\n"
-manjeet += f"➠ **Federation:** [•Our Fed•](https://t.me/Death_Soul_Federation)"
+manjeet += f"➠ **Federation:** [•Our Fed•](https://t.me/Eternity_Federation)"
 
 
 async def get_time(seconds: int) -> str:
